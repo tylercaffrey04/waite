@@ -44,6 +44,7 @@ body{
     justify-self: center;
     align-self: center;
     z-index: 1;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #cloudbiscuits{
